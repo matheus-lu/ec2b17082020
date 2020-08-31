@@ -1,1 +1,0 @@
-É um aplicativo de transporte particular que, com um limite de 10 dolares, transporta pessoas em um carro voador. Ele calcula o trajeto e o tempo que levará para chegar lá e transforma em um preço.
